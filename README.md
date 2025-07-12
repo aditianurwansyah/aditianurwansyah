@@ -38,6 +38,8 @@
 <p>🥈Juara 2 dalam pelajaran matematika</p> 
 <p>Mendapatkan semangat dalam kedisiplinan ++</p>
 <p>Mendapatkan sebagian skill yang dipelajari</p>
+<p>Kesatria yang berjuang habis-habisan</p>
+<p>🥇Menolak lamaran dari semua wanita</p>
 
 <div align="left">
   <a href="https://www.youtube.com/@aditia_n1sy" target="_blank">
