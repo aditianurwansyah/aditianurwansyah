@@ -1,6 +1,7 @@
 <h1 align="left">Hi Yahallo👋! My name is Aditia Nurwansyah and I'm a HUMAN from BALEENDAH cihuyy</h1>
 
 <p>Saya hanyalah seorang rendahan yang lemah tidak terlalu jago di dalam bidang apapun</p>
+<p>Yow, lalu saya seorang Mahasiswa Universitas Teknologi Bandung yang sedang berjalan untuk menempuh S1 Teknik informatika dan setelah lulus nanti rahasia dan tidak mau beritau wleee :p</p>
 <div align="left"> 
 <img src="https://github-readme-stats.vercel.app/api?username=aditianurwansyah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="160" alt="stats graph" /> <br> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditianurwansyah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph" /> <br>
@@ -30,6 +31,12 @@
 
 ###
 
+<p>My achivement</p>
+<p>🥇Juara umum 2x di SMK NEGERI 7 BALEENDAH</p>
+<p> Juara harapan 1 menulis resume</p>
+<p>🥉Juara 3 dari perlombaan nyanyi</p>
+<p>🥈Juara 2 dalam pelajaran matematika</p> 
+<p>🉑Mendapatkan kepercayaan dari sebagian orang-orang</p> 
 <div align="left">
   <a href="https://www.youtube.com/@aditia_n1sy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
