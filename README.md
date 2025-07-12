@@ -1,4 +1,4 @@
-<h1 align="left">Hi Yahallo👋! My name is Aditia Nurwansyah and I'm a 🇮🇩 from BALEENDAH cihuyy</h1>
+<h1 align="left">Yahallo👋! My name is Aditia Nurwansyah and I'm a 🇮🇩 from BALEENDAH cihuyy</h1>
 
 <p>Saya hanyalah seorang rendahan yang lemah tidak terlalu jago di dalam bidang apapun</p>
 <p>Yow, lalu saya seorang 🎓 Mahasiswa Universitas Teknologi Bandung yang sedang berjalan untuk menempuh S1 Teknik informatika dan setelah lulus nanti rahasia dan tidak mau beritau wleee :p</p>
