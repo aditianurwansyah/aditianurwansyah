@@ -31,8 +31,7 @@
 
 ###
 
-<p>My achivement</p>
-<p>🥇Juara umum 2x di SMK NEGERI 7 BALEENDAH</p>
+<p>My achivement</p> 
 <p>🏆Juara harapan 1 menulis resume buku dari karya orang lain</p>
 <p>🥉Juara 3 dari perlombaan nyanyi di jaman SD</p>
 <p>🥈Juara 2 dalam pelajaran matematika</p> 
@@ -41,8 +40,8 @@
 <p>♞Kesatria yang berjuang habis-habisan⚔️</p>
 <p>🥇Juara Menolak lamaran dari semua wanita</p>
 <p>Mendapatkan title "suka penyendiri"</p> 
-<p>Mendapatkan title "lajang"</p> 
-<p>Mendapatkan title "Manusia paling aneh ketika makin deket makin penasaran orang-orang dari wanita"</p>
+<p>Mendapatkan title "lanang"</p> 
+<p>Mendapatkan title "Manusia paling aneh ketika makin deket, makin penasaran sama orang-orang dari cewek"</p> 
 <p>Mendapatkan skill profesi fokus RED TEAM dalam cyber security⚔️</p>
 <p>㊙️Mendapatkan skill basic otodidak dari bahasa jepang</p>
 <p>🥋Mendapatkan skill teknik bela diri dalam mengikuti karate club dan sabuk biru</p>
