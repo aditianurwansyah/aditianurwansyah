@@ -34,7 +34,7 @@
 <p>My achivement</p>
 <p>🥇Juara umum 2x di SMK NEGERI 7 BALEENDAH</p>
 <p>🏆Juara harapan 1 menulis resume</p>
-<p>🥉Juara 3 dari perlombaan nyanyi jaman old</p>
+<p>🥉Juara 3 dari perlombaan nyanyi di jaman SD</p>
 <p>🥈Juara 2 dalam pelajaran matematika</p> 
 <p>🔥Mendapatkan semangat dalam kedisiplinan ++</p>
 <p>🌐Mendapatkan sebagian skill yang dipelajari</p>
