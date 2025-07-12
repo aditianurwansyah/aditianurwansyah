@@ -34,12 +34,15 @@
 <p>My achivement</p>
 <p>🥇Juara umum 2x di SMK NEGERI 7 BALEENDAH</p>
 <p> Juara harapan 1 menulis resume</p>
-<p>🥉Juara 3 dari perlombaan nyanyi</p>
+<p>🥉Juara 3 dari perlombaan nyanyi jaman old</p>
 <p>🥈Juara 2 dalam pelajaran matematika</p> 
 <p>Mendapatkan semangat dalam kedisiplinan ++</p>
 <p>Mendapatkan sebagian skill yang dipelajari</p>
-<p>Kesatria yang berjuang habis-habisan</p>
-<p>🥇Menolak lamaran dari semua wanita</p>
+<p>Kesatria yang berjuang habis-habisan ♞</p>
+<p>🥇Juara Menolak lamaran dari semua wanita</p>
+<p>mendapatkan title "suka penyendiri"</p> 
+<p>mendapatkan title "lajang"</p> 
+<p>mendapatkan title "Manusia paling aneh ketika makin deket makin penasaran orang-orang"</p>
 
 <div align="left">
   <a href="https://www.youtube.com/@aditia_n1sy" target="_blank">
