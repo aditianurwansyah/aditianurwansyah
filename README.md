@@ -1,6 +1,6 @@
-<h1 align="left">Hi Yahallo👋! 
- My name is Aditia Nurwansyah and I'm a HUMAN from BALEENDAH cihuyy</h1>
+<h1 align="left">Hi Yahallo👋! My name is Aditia Nurwansyah and I'm a HUMAN from BALEENDAH cihuyy</h1>
 
+<p>Saya hanyalah seorang rendahan yang lemah tidak terlalu jago di dalam bidang apapun</p>
 ###
 <div align="left"> 
 <img src="https://github-readme-stats.vercel.app/api?username=aditianurwansyah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="160" alt="stats graph" /> <br> 
