@@ -8,7 +8,7 @@
 <img src="https://streak-stats.demolab.com?user=aditianurwansyah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="160" alt="streak graph" /> <br> 
 <p> Life with your Technology </> 🌐 </p>
 
-<img align="right" height="180" src="https://media.tenor.com/7ddM67UZbgYAAAAM/kaoruko-waguri-waguri-kaoruko.gif"  />
+<img align="right" height="180" src="https://i.pinimg.com/originals/ec/3e/16/ec3e16f2577c702657f73c1ad20f553b.gif"  />
 
 ###
 
