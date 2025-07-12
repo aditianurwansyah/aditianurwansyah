@@ -39,12 +39,14 @@
 <p>🌐Mendapatkan sebagian skill yang dipelajari</p>
 <p>♞Kesatria yang berjuang habis-habisan⚔️</p>
 <p>🥇Juara Menolak lamaran dari semua wanita</p>
-<p>Mendapatkan title "suka penyendiri"</p> 
+<p>Mendapatkan title "penyendiri"</p> 
+<p>Mendapatkan title "Introvet"</p>  
 <p>Mendapatkan title "lanang"</p> 
-<p>Mendapatkan title "Manusia paling aneh ketika makin deket, makin penasaran sama orang-orang dari cewek"</p> 
+<p>Mendapatkan title "Manusia paling aneh ketika makin deket/akrab, makin penasaran sama orang-orang dari cewek"</p> 
 <p>Mendapatkan skill profesi fokus RED TEAM dalam cyber security⚔️</p>
 <p>㊙️Mendapatkan skill basic otodidak dari bahasa jepang</p>
 <p>🥋Mendapatkan skill teknik bela diri dalam mengikuti karate club dan sabuk biru</p>
+<p>Mendapatkan skill "LIFE CORE" TAHAP 10%</p>
 
 <div align="left">
   <a href="https://www.youtube.com/@aditia_n1sy" target="_blank">
