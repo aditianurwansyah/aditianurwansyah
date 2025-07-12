@@ -34,7 +34,7 @@
 <p>My achivement</p> 
 <p>🏆Juara harapan 1 menulis resume buku dari karya orang lain</p>
 <p>🥉Juara 3 dari perlombaan nyanyi di jaman SD</p>
-<p>🥈Juara 2 dalam pelajaran matematika</p> 
+<p>🥈Juara 2 dalam pelajaran matematika di jaman SMP oleh guru sendiri</p> 
 <p>🔥Mendapatkan semangat dalam kedisiplinan ++</p>
 <p>🌐Mendapatkan sebagian skill yang dipelajari</p>
 <p>♞Kesatria yang berjuang habis-habisan⚔️</p>
