@@ -42,7 +42,7 @@
 <p>Mendapatkan title "penyendiri"</p> 
 <p>Mendapatkan title "Introvet"</p>  
 <p>Mendapatkan title "lanang"</p> 
-<p>Mendapatkan title "Manusia paling aneh ketika makin deket/akrab, makin penasaran sama orang-orang dari cewek"</p> 
+<p>Mendapatkan title "Manusia paling aneh ketika makin deket/akrab, makin penasaran sama saya dari cewek"</p> 
 <p>Mendapatkan skill profesi fokus RED TEAM dalam cyber security⚔️</p>
 <p>㊙️Mendapatkan skill basic otodidak dari bahasa jepang</p>
 <p>🥋Mendapatkan skill teknik bela diri dalam mengikuti karate club dan sabuk biru</p>
