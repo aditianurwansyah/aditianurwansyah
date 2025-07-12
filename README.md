@@ -50,6 +50,7 @@
 <p>Mendapatkan skill "LIFE CORE" TAHAP 10%</p>
 <p>Mendapatkan title "Penggila Coding"</p>
 <p>Mendapatkan skill Analysis tingkat dasar </p>
+<p>Mendapatkan sebagian kepercayaan dari sebagian guru</p> 
 </ul> 
 
 <div align="left">
