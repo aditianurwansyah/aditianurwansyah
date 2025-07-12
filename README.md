@@ -31,8 +31,9 @@
 
 ###
 
-<p>My achivement</p> 
-<p>🏆Juara harapan 1 menulis resume buku dari karya orang lain</p>
+<p>My achivement</p>
+<ul>
+ <p>🏆Juara harapan 1 menulis resume buku dari karya orang lain</p>
 <p>🥉Juara 3 dari perlombaan nyanyi di jaman SD</p>
 <p>🥈Juara 2 dalam pelajaran matematika di jaman SMP oleh guru sendiri</p> 
 <p>🔥Mendapatkan semangat dalam kedisiplinan ++</p>
@@ -49,6 +50,7 @@
 <p>Mendapatkan skill "LIFE CORE" TAHAP 10%</p>
 <p>Mendapatkan title "Penggila Coding"</p>
 <p>Mendapatkan skill Analysis tingkat dasar </p>
+</ul> 
 
 <div align="left">
   <a href="https://www.youtube.com/@aditia_n1sy" target="_blank">
