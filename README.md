@@ -44,7 +44,7 @@
 <p>Mendapatkan title "lajang"</p> 
 <p>Mendapatkan title "Manusia paling aneh ketika makin deket makin penasaran orang-orang terhadap wanita"</p>
 <p>Mendapatkan skill profesi fokus RED TEAM dalam cyber security⚔️</p>
-<p>㊙️</p>
+<p>㊙️Mendapatkan skill basic dari bahasa jepang</p>
 <p>🥋Mendapatkan skill teknik bela diri dalam mengikuti karate club dan sabuk biru</p>
 
 <div align="left">
