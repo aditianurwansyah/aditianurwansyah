@@ -69,6 +69,8 @@
  <p>🎧Mendengarkan musik</p>
  <p>🏸Bermain bulu tangkis</p>
  <p>🏀Bermain bola basket</p>
+ <p>Menonton anime</p>
+ <p>Membaca semua buku pelajaran, novel, komik mangga</p>
 </ul>
 
 #### 🏆 GitHub Trophies
