@@ -45,7 +45,7 @@
 <p>Mendapatkan title "Manusia paling aneh ketika makin deket/akrab"</p> 
 <p>Mendapatkan skill profesi fokus RED TEAM dalam cyber security⚔️</p>
 <p>㊙️Mendapatkan skill basic otodidak dari bahasa jepang</p>
-<p>🥋Mendapatkan skill teknik bela diri dalam mengikuti karate club dan sabuk biru</p>
+<p>🥋Mendapatkan skill teknik bela diri dalam mengikuti karate club dan mendapatkan sabuk biru</p>
 <p>Mendapatkan skill "LIFE CORE" TAHAP 10%</p>
 <p>Mendapatkan title "Penggila Coding"</p>
 <p>Mendapatkan skill Analysis tingkat dasar </p>
