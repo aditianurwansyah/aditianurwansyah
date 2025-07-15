@@ -8,7 +8,7 @@
 <img src="https://streak-stats.demolab.com?user=aditianurwansyah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="160" alt="streak graph" /> <br> 
 <p> Life with your Technology </> 🌐 </p>
 
-<img align="right" height="180" src="https://i.redd.it/ub44ziwa4zy71.gif" />
+<img align="right" height="180" src="https://gifdb.com/images/high/date-a-live-kurumi-tokisaki-finger-on-chin-kojtis8w7cont9ph.gif" /> 
 
 ###
 
