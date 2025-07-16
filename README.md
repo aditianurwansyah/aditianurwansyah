@@ -10,6 +10,7 @@
 <img align="right" height="180" src="https://gifdb.com/images/high/date-a-live-kurumi-tokisaki-finger-on-chin-kojtis8w7cont9ph.gif" /> 
 <img align="down" height="180" src="https://images.steamusercontent.com/ugc/947336408524450974/A7A313D9A5C13DC2F41D2BFCFF136FABE50AB205/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" /> 
 <img align="down" height="180" src="https://gifdb.com/images/high/question-tonton-friends-f8rw08ikjf4wx0v9.gif" /> 
+<img align="down" height="180" src="https://pa1.aminoapps.com/6217/8bcaa26f5ebfd34e50617ee3f764f1d7e6014731_hq.gif" /> 
 
 ###
 
