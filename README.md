@@ -8,7 +8,7 @@
 <p> Life with your Technology </> 🌐 </p>
 
 <img align="right" height="180" src="https://gifdb.com/images/high/date-a-live-kurumi-tokisaki-finger-on-chin-kojtis8w7cont9ph.gif" /> 
-<img align="down" height="180" src="https://images.steamusercontent.com/ugc/947336408524450974/A7A313D9A5C13DC2F41D2BFCFF136FABE50AB205/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" /> 
+<img align="left" height="180" src="https://images.steamusercontent.com/ugc/947336408524450974/A7A313D9A5C13DC2F41D2BFCFF136FABE50AB205/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" /> 
 
 ###
 
