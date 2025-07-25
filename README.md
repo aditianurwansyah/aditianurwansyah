@@ -37,9 +37,6 @@
 
 <p>My achivement</p>
 <ul>
- <p>🏆Juara harapan 1 menulis resume buku dari karya orang lain</p>
-<p>🥉Juara 3 dari perlombaan nyanyi di jaman SD</p>
-<p>🥈Juara 2 dalam pelajaran matematika di jaman SMP oleh guru sendiri</p> 
 <p>🔥Mendapatkan semangat dalam kedisiplinan ++</p>
 <p>🌐Mendapatkan sebagian skill yang dipelajari</p>
 <p>♞Kesatria yang berjuang habis-habisan⚔️</p>
@@ -53,7 +50,6 @@
 <p>Mendapatkan skill "LIFE CORE" TAHAP 10%</p>
 <p>Mendapatkan title "Penggila Coding"</p>
 <p>Mendapatkan skill Analysis tingkat dasar </p>
-<p>Mendapatkan sebagian kepercayaan dari sebagian guru</p> 
 </ul> 
 
 <div align="left">
