@@ -44,7 +44,7 @@
 <p>Mendapatkan title "lanang"</p> 
 <p>Mendapatkan skill profesi fokus RED TEAM dalam cyber security⚔️</p>
 <p>🥋Mendapatkan skill teknik bela diri dalam mengikuti karate club dan mendapatkan sabuk biru</p>
-<p>Mendapatkan skill "LIFE CORE" TAHAP 10%</p>
+<p>Mendapatkan skill "LIFE CORE" TAHAP 15%</p>
 <p>Mendapatkan title "Penggila Coding"</p>
 <p>Mendapatkan skill Analysis tingkat dasar </p>
 </ul> 
