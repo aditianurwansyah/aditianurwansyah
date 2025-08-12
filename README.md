@@ -2,6 +2,7 @@
 
 <p>Saya hanyalah seorang manusia biasa yang tidak terlalu jago di dalam bidang apapun</p>
 <p>Yow, lalu saya seorang 🎓 Mahasiswa Universitas Teknologi Bandung yang sedang berjalan untuk menempuh S1 Teknik informatika dan setelah lulus nanti semoga mendapatkan pekerjaan dari luar negeri :)</p>
+<p>Pentester testing | Programmer | Machine Learning | Gamedeveloper </p>
 <div align="left"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditianurwansyah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph" /> <br>
 <img src="https://streak-stats.demolab.com?user=aditianurwansyah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="160" alt="streak graph" /><br>  
