@@ -69,7 +69,10 @@
   </a>
   <a href="https://www.linkedin.com/in/aditia-nurwansyah-a50485309/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  </a> 
+ <a href="https://www.facebook.com/profile.php?id=61551802351062&ref=pl_edit_ig_profile_ac" target="_blank"> 
+   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /> 
+ </a>
 </div> 
 
 
@@ -79,7 +82,7 @@
  <p>🏸Bermain bulu tangkis</p>
  <p>🏀Bermain bola basket</p>
  <p>Menonton anime</p>
- <p>Membaca semua buku pelajaran, novel, komik mangga</p>
+ <p>Membaca buku pelajaran, novel, mangga</p>
 </ul>
 
 #### 🏆 GitHub Trophies
