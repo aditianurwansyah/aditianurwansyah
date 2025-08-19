@@ -2,6 +2,7 @@
 
 <p>Saya hanyalah seorang manusia biasa yang tidak terlalu jago di dalam bidang apapun</p>
 <p>Yow, lalu saya seorang 🎓 Mahasiswa Universitas Teknologi Bandung yang sedang berjalan untuk menempuh S1 Teknik informatika dan setelah lulus nanti semoga mendapatkan pekerjaan dari luar negeri :)</p>
+<p>My profesi</p>
 <p>Pentester testing | Programmer | Machine Learning | Gamedeveloper </p>
 <div align="left"> 
  <img src="https://github-readme-stats.vercel.app/api?username=aditianurwansyah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="160" alt="stats graph" /> <br>
