@@ -9,6 +9,7 @@
 <img src="https://streak-stats.demolab.com?user=aditianurwansyah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="160" alt="streak graph" /><br>  
 <p> Life with your Technology </> 🌐 </p>
 
+<p>MY favorite</p>
 <img align="down" height="180" src="https://images.steamusercontent.com/ugc/947336408524450974/A7A313D9A5C13DC2F41D2BFCFF136FABE50AB205/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" /> 
 <img align="down" height="180" src="https://gifdb.com/images/high/question-tonton-friends-f8rw08ikjf4wx0v9.gif" /> 
 <img align="down" height="180" src="https://media.tenor.com/ceY1g6Z5EhUAAAAM/unhappy-crossed.gif" />
@@ -61,7 +62,9 @@
   <a href="https://www.linkedin.com/in/aditia-nurwansyah-a50485309/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
+</div> 
+
+<img src="https://raw.githubusercontent.com/aditianurwansyah/aditianurwansyah/output/snake.svg" alt="Snake animation" /> 
 
 <p>My hobbies:</p>
 <ul>
