@@ -44,6 +44,12 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div> 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditianurwansyah/aditianurwansyah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditianurwansyah/aditianurwansyah/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aditianurwansyah/aditianurwansyah/output/pacman-contribution-graph.svg">
+</picture> 
+
 <p>My achivement</p>
 <ul>
 <p>🔥Mendapatkan semangat dalam kedisiplinan ++</p>
