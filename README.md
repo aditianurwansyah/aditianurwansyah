@@ -39,7 +39,7 @@
  <p>Other</p> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" /> 
-###
+
 
 <p>My achivement</p>
 <ul>
