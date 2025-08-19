@@ -9,7 +9,7 @@
 <img src="https://streak-stats.demolab.com?user=aditianurwansyah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="160" alt="streak graph" /><br>  
 <p> Life with your Technology </> 🌐 </p>
 
-<p>MY Like</p>
+
 <img align="down" height="500" src="https://images.steamusercontent.com/ugc/947336408524450974/A7A313D9A5C13DC2F41D2BFCFF136FABE50AB205/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" /> 
 
 
