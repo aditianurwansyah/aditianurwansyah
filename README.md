@@ -35,6 +35,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+<div align="left">
+ <p>Other</p> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" /> 
 ###
 
 <p>My achivement</p>
@@ -63,10 +67,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div> 
-###
-<img src="https://raw.githubusercontent.com/aditianurwansyah/aditianurwansyah/output/snake.svg" alt="Snake animation" /> 
-### 
-<p>My hobbies:</p>
+
+
+<p>My hobbies:</p> 
 <ul>
  <p>🎧Mendengarkan musik</p>
  <p>🏸Bermain bulu tangkis</p>
