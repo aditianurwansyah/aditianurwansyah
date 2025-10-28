@@ -1,5 +1,6 @@
 <center><h1 align="left">Yahallo👋! My name is Aditia Nurwansyah and I'm a 🇮🇩 from BALEENDAH</h1></center>
-
+<br>
+<p>こんにちは、みなさん、はじめまして :></p> 
 <p>Saya hanyalah seorang manusia biasa yang tidak terlalu jago di dalam bidang apapun</p>
 <p>Yow, lalu saya seorang 🎓 Mahasiswa Universitas Teknologi Bandung yang sedang berjalan untuk menempuh S1 Teknik informatika dan setelah lulus nanti semoga mendapatkan pekerjaan dari luar negeri :)</p>
 <p>My profesi</p>
