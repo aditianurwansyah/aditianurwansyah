@@ -14,6 +14,7 @@
 
 <img align="down" height="500" src="https://images.steamusercontent.com/ugc/947336408524450974/A7A313D9A5C13DC2F41D2BFCFF136FABE50AB205/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" /> 
 
+<img align="center" height="500" src="https://i.pinimg.com/originals/5a/82/fa/5a82fa536af0351423705aa69feda22b.gif /> 
 
 <div align="left">
  <p>My Skill learn</p> 
