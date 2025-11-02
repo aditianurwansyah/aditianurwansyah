@@ -4,7 +4,7 @@
 <p>Saya hanyalah seorang manusia biasa yang tidak terlalu jago di dalam bidang apapun</p>
 <p>Yow, lalu saya seorang 🎓 Mahasiswa Universitas Teknologi Bandung yang sedang berjalan untuk menempuh S1 Teknik informatika dan setelah lulus nanti semoga mendapatkan pekerjaan dari luar negeri :)</p>
 <p>My profesi</p>
-<p>Pentester testing | Programmer | Machine Learning | Gamedeveloper </p>
+<p>Pentester testing | Programmer | Machine Learning | Gamedeveloper | IOT </p>
 <div align="left"> 
  <img src="https://github-readme-stats.vercel.app/api?username=aditianurwansyah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="160" alt="stats graph" /> <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditianurwansyah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph" /> <br>
@@ -13,13 +13,14 @@
 
 <img src="https://i.pinimg.com/originals/5a/82/fa/5a82fa536af0351423705aa69feda22b.gif" height="300" /> 
 <img align="down" height="500" src="https://images.steamusercontent.com/ugc/947336408524450974/A7A313D9A5C13DC2F41D2BFCFF136FABE50AB205/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" /> 
+
 <img src="https://pa1.aminoapps.com/6217/26b146ddf51b8e3c8c5e3cf97424923b8bd753dd_hq.gif" height="400" />
 
 
 <div align="left">
  <p>My Skill learn</p> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" /> <a href="https://www.w3schools.com/js/default.asp"></a> 
+  <img width="12" <a href="https://www.w3schools.com/js/default.asp"></a> />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
