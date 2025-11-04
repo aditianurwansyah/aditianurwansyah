@@ -1,4 +1,7 @@
 <center><h1 align="left">Yahallo👋! My name is Aditia Nurwansyah and I'm a 🇮🇩 from BALEENDAH</h1></center>
+<p align="center">
+<a href="https://user-badge.committers.top/indonesia/aditianurwansyah"><img src="https://user-badge.committers.top/indonesia/aditianurwansyah.svg" /></a><br/>
+</p>
 <br>
 <p>こんにちは、みなさん、はじめまして :></p> 
 <p>Saya hanyalah seorang manusia biasa yang tidak terlalu jago di dalam bidang apapun</p>
