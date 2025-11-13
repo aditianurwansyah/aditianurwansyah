@@ -6,6 +6,7 @@
 <p>こんにちは、みなさん、はじめまして :></p> 
 <p>Saya hanyalah seorang manusia biasa yang tidak terlalu jago di dalam bidang apapun</p>
 <p>Yow, lalu saya seorang 🎓 Mahasiswa Universitas Teknologi Bandung yang sedang berjalan untuk menempuh S1 Teknik informatika dan setelah lulus nanti semoga mendapatkan pekerjaan dari luar negeri :)</p>
+<p>Kecerdasan saya di sembunyikan tapi tidak tahu dimana letak nya :></p> 
 <p align="center">My profesi</p>
 <p align="center">Pentester testing | Programmer | Machine Learning | Gamedeveloper | IOT </p>
 <div align="left"> 
