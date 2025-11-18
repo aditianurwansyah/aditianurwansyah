@@ -109,11 +109,11 @@
  <p>Membaca buku pelajaran, novel, mangga</p>
 </ul>
 
+### Music
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mnmomj5jexandi7fuetm3u5vnu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=false&bar_color=ff0000)](https://github.com/kittinan/spotify-github-profile) 
+
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aditianurwansyah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 #### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aditianurwansyah&limit=5&theme=dark&combine_all_yearly_contributions=true) 
-
-### Music
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mnmomj5jexandi7fuetm3u5vnu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=false&bar_color=ff0000)](https://github.com/kittinan/spotify-github-profile) 
