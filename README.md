@@ -109,7 +109,7 @@
  <p>Membaca buku pelajaran, novel, mangga</p>
 </ul>
 
-### Music
+### My Music Favorit
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mnmomj5jexandi7fuetm3u5vnu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=false&bar_color=ff0000)](https://github.com/kittinan/spotify-github-profile) 
 
 #### 🏆 GitHub Trophies
