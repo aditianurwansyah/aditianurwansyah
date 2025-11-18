@@ -114,3 +114,6 @@
 
 #### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aditianurwansyah&limit=5&theme=dark&combine_all_yearly_contributions=true) 
+
+### Music
+[![spotify-github-profile](https://spotify-github-profile.aditianurwansyah.com/api/view?uid=lxs8v16117ka3ywtga2d8o7s7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/aditianurwansyah/spotify-github-profile)
