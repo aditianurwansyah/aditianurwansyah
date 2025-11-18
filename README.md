@@ -8,7 +8,9 @@
 <p>Yow, lalu saya seorang 🎓 Mahasiswa Universitas Teknologi Bandung yang sedang berjalan untuk menempuh S1 Teknik informatika dan setelah lulus nanti semoga mendapatkan pekerjaan dari luar negeri :)</p>
 <p>Kecerdasan saya di sembunyikan tapi tidak tahu dimana letak nya :></p> 
 <p align="center">My profesi</p>
-<p align="center">Pentester testing | Programmer | Machine Learning | Gamedeveloper | IOT </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Pentester+Testing;Building+Programmer" alt="Typing SVG" />
+</p>
 <div align="left"> 
  <img src="https://github-readme-stats.vercel.app/api?username=aditianurwansyah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="160" alt="stats graph" /> <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditianurwansyah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph" /> <br>
