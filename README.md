@@ -9,7 +9,7 @@
 <p>Kecerdasan saya di sembunyikan tapi tidak tahu dimana letak nya :></p> 
 <p align="center">My profesi</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Pentester+Testing;Building+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Pentester+Testing; Programmer+MachineLearning" alt="Typing SVG" />
 </p>
 <div align="left"> 
  <img src="https://github-readme-stats.vercel.app/api?username=aditianurwansyah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="160" alt="stats graph" /> <br>
