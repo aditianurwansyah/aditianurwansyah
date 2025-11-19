@@ -20,7 +20,7 @@
  
 ### My Music Favorit
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mnmomj5jexandi7fuetm3u5vnu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=false&bar_color=ff0000)](https://github.com/kittinan/spotify-github-profile) 
-<img align="right" src="https://media.tenor.com/15NLF1281h8AAAAM/anime-dance.gif" height="400" />
+<img align="right" src="https://i.gifer.com/RsVc.gif" height="400" />
 
 <div align="left">
  <p>My Skill learn</p> 
