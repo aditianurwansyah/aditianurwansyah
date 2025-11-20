@@ -20,9 +20,8 @@
  
 ### My Music Favorit
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mnmomj5jexandi7fuetm3u5vnu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=false&bar_color=ff0000)](https://github.com/kittinan/spotify-github-profile) 
-<img align="right" src="https://i.gifer.com/RsVc.gif" height="300" />
-
-<img align="down" src="https://i.pinimg.com/originals/bb/d8/31/bbd8317aade5734d46d8cd7243c4a98a.gif" height="400"/>
+<img align="right" src="https://i.gifer.com/RsVc.gif" height="300" /> 
+<img align="down" src="https://64.media.tumblr.com/14cc45f9610a6ee341a45fd0d68f4dde/5fbda0354c6aead3-fe/s640x960/8365aefa9cf88e76a1e74142e9f7c5445da2261f.gif" height="400" />
 
 <div align="left">
  <p>My Skill learn</p> 
