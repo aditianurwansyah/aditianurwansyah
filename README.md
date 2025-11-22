@@ -12,7 +12,7 @@
 <p>Kecerdasan saya di sembunyikan tapi tidak tahu dimana letak nya :></p> 
 <p align="center">My profesi</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=ff0000&center=true&vCenter=true&width=600&lines=Pentester+Testing+Programmer+MachineLearning+Ethical+Hacking;+IT'S+SHOW+TIMEE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=ff0000&center=true&vCenter=true&width=600&lines=Pentester+Testing+Programmer+MachineLearning+EthicalHacking;+IT'S+SHOW+TIMEE" alt="Typing SVG" />
 </p>
 <div align="left"> 
 <img src="https://github-readme-stats.vercel.app/api?username=aditianurwansyah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
