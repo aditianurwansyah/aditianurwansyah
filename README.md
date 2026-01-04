@@ -22,7 +22,7 @@
 ### My Music Favorit
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mnmomj5jexandi7fuetm3u5vnu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color_cover=false&bar_color=ff0000)](https://github.com/kittinan/spotify-github-profile) 
 <img align="right" src="https://i.gifer.com/RsVc.gif" height="300" /> 
-<img align="right" src="https://i.pinimg.com/originals/08/8a/a1/088aa15e177a46e37a5aecc5cf19d6af.gif" height="400" />
+<img align="right" src="https://upload-os-bbs.hoyolab.com/upload/2022/06/10/14409268/cc2118d3210ba427b51f74721070d6a7_6230852783295087828.gif" height="400" />
 
 <div align="left">
  <p>My Skill learn</p> 
