@@ -1,6 +1,6 @@
 <center><h1 align="left">Yahallo👋! My name is Aditia Nurwansyah and I'm a 🇮🇩 from BALEENDAH</h1></center>
 <p align="center">
-[![committers.top badge](https://user-badge.committers.top/indonesia/aditianurwansyah.svg)](https://user-badge.committers.top/indonesia/aditianurwansyah)
+<a href="https://user-badge.committers.top/indonesia/aditianurwansyah"><img src="https://user-badge.committers.top/indonesia/aditianurwansyah.svg" /></a><br/>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aditianurwansyah.aditianurwansyah&"  />
 </div>
