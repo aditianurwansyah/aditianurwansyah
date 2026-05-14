@@ -19,7 +19,6 @@
 <p> Life with your Technology </> 🌐 </p>
 <br>
  
-bar_color=ff0000)](https://github.com/kittinan/spotify-github-profile) 
 <img align="right" src="https://i.gifer.com/RsVc.gif" height="300" /> 
 <img align="right" src="https://upload-os-bbs.hoyolab.com/upload/2022/06/10/14409268/cc2118d3210ba427b51f74721070d6a7_6230852783295087828.gif" height="400" />
 
