@@ -1,127 +1,29 @@
-<center><h1 align="left">Yahallo👋! My name is Aditia Nurwansyah and I'm a 🇮🇩 from BALEENDAH</h1></center>
-<p align="center">
-<a href="https://user-badge.committers.top/japan/aditianurwansyah"><img src="https://user-badge.committers.top/japan/aditianurwansyah.svg" /></a><br/>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aditianurwansyah.aditianurwansyah&"  />
-</div>
-</p>
-<br>
-<p>こんにちは、みなさん、はじめまして :></p> 
-<p>Saya hanyalah seorang manusia biasa yang tidak terlalu jago di dalam bidang apapun</p>
-<p>Yow, lalu saya seorang 🎓 Mahasiswa Universitas Teknologi Bandung yang sedang berjalan untuk menempuh S1 Teknik informatika dan setelah lulus nanti semoga mendapatkan pekerjaan dari luar negeri :)</p>
-<p>Kecerdasan saya di sembunyikan tapi tidak tahu dimana letak nya :></p> 
-<p align="center">My profesi</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=ff0000&center=true&vCenter=true&width=600&lines=Pentester+Testing+Programmer+MachineLearning;+IT'S+SHOW+TIMEE;+EthicalHacking;" alt="Typing SVG" />
-</p>
-<div align="left"> 
+# 💫 About Me:
+<p>Yoo, kenalin saya Aditia Nurwansyah</p>
+<p>Hanya seorang pemula yang terus belajar dan ingin mengejar semua yang ku inginkan</p>
+<p>Kemudian saya memegang kemampuan yang begitu banyak nya namun saya hanya dapat memegang pentester testing, programmer dan Artifical Intelegent</p>
 
-<p> Life with your Technology </> 🌐 </p>
-<br>
- 
-<img align="right" src="https://i.gifer.com/RsVc.gif" height="300" /> 
-<img align="right" src="https://upload-os-bbs.hoyolab.com/upload/2022/06/10/14409268/cc2118d3210ba427b51f74721070d6a7_6230852783295087828.gif" height="400" />
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anzhdownbreaker) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aditia Nurwansyah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditia_nsyah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aditia Nurwansyah) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@radityanurwan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Aditia_N1SYH) 
 
-<div align="left">
- <p>My Skill learn</p> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="Javascript logo" /> 
-  <img width="12"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  </div>
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  </div>
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  </div> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-</div>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aditianurwansyah&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aditianurwansyah&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aditianurwansyah&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="left">
- <p>Other</p> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" align="center  />
- <img width="12" /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
- <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
- <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
- <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
- <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
- <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
- <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
- <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
- <img width="12" />
-</div>  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aditianurwansyah&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="left">
-<p>My Editing design</p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<p>My achivement</p>
-<ul>
-<p>🔥Mendapatkan semangat dalam kedisiplinan ++</p>
-<p>🌐Mendapatkan sebagian skill yang dipelajari</p>
-<p>♞Kesatria yang berjuang habis-habisan⚔️</p>
-<p>Mendapatkan title "penyendiri"</p> 
-<p>Mendapatkan title "Introvet"</p>  
-<p>Mendapatkan title "lajang"</p> 
-<p>Mendapatkan skill profesi fokus RED TEAM dalam cyber security⚔️</p>
-<p>Mendapatkan skill "LIFE CORE" TAHAP 15%</p>
-<p>Mendapatkan skill "keseriusan batasan" TAHAP 5%</p>
-<p>Mendapatkan title "Penggila Coding"</p>
-<p>Mendapatkan skill Analysis tingkat dasar </p>
-</ul> 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aditianurwansyah&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<p>Mau di follow bolee kok :></p>
-<div align="left">
-  <a href="https://www.youtube.com/@aditia_n1sy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/aditia_nsyah/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/aditia-nurwansyah-a50485309/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a> 
- <a href="https://www.facebook.com/profile.php?id=61551802351062&ref=pl_edit_ig_profile_ac" target="_blank"> 
-   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /> 
- </a>
-</div> 
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/aditianurwansyah) 
 
-<p>My hobbies:</p> 
-<ul>
- <p>🎧Mendengarkan musik</p>
- <p>🏸Bermain bulu tangkis</p>
- <p>🏀Bermain bola basket</p>
- <p>Menonton anime</p>
- <p>Membaca buku pelajaran, novel, mangga</p>
-</ul>
-
-#### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aditianurwansyah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-#### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aditianurwansyah&limit=5&theme=dark&combine_all_yearly_contributions=true) 
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
