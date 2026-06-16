@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p>Yoo, kenalin saya Aditia Nurwansyah</p>
+<p>Yoo, kenalin saya Aditia Nurwansyah</p> (<i>Yoo, present introduction my self my name is Aditia Nurwansyah</i>)
 <p>Hanya seorang pemula yang terus belajar dan ingin mengejar semua yang ku inginkan</p>
 <p>Kemudian saya memegang kemampuan yang begitu banyak nya namun saya hanya dapat memegang pentester testing, programmer dan Artifical Intelegent</p>
 
