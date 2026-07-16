@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://media1.tenor.com/m/v_l7imOBvnIAAAAC/nte-neverness-to-everness.gif" alt="Banner" width="100%" />
+<img src="https://media1.tenor.com/m/v_l7imOBvnIAAAAC/nte-neverness-to-everness.gif" alt="Banner" width="50%" />
 
 ## 📌 About Me
 - I love coconut ice, and I love learning new things on my own. I hope someone will invite me to do the practice together from the start.
