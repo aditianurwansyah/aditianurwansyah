@@ -14,7 +14,7 @@
 
 ## 🧠 My Focus Areas
 - Pentester Testing
-- Machine learning
+- Data science
 
 
 ## 📊 GitHub Stats & Trophies
