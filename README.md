@@ -67,7 +67,7 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-
+  <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8pvYBtFxSjS0r8d3JBaoNi9lvPiEtGTJz9wjesi7o7Q&s=10" alt="Jupyter Notebook" width="40" />
 </p>
 
 <p align="center">
