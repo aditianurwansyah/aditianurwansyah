@@ -14,7 +14,8 @@
 
 ## 🧠 My Focus Areas
 - Pentester Testing
-- Data science
+- Data science + AI (Machine Learning)
+- Programmer (Hiatus dan bangkit)
 
 
 ## 📊 GitHub Stats & Trophies
